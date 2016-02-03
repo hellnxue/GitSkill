@@ -5,6 +5,3 @@ hello helln.
 ≤‚ ‘push
 
 show logs test.
-
-
-hello thress.error
