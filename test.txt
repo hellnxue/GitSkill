@@ -5,3 +5,5 @@ hello helln.
 ≤‚ ‘push
 
 show logs test.
+
+commit a error file 22222.
