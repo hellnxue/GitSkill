@@ -18,6 +18,7 @@ understander how stage working.......
 
 understander how stage working.......222222222222
 
+<<<<<<< HEAD
  
 
  commit something message to github 111111111111111111
@@ -25,3 +26,4 @@ understander how stage working.......222222222222
 
 
   commit something message to github 222222222222
+ 
